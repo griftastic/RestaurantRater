@@ -1,0 +1,15 @@
+/Users/griffinbrown/Desktop/ElevenFiftyAcademy140.nosync/Repositories/Models/obj/Debug/net6.0/Models.csproj.AssemblyReference.cache
+/Users/griffinbrown/Desktop/ElevenFiftyAcademy140.nosync/Repositories/Models/obj/Debug/net6.0/Models.GeneratedMSBuildEditorConfig.editorconfig
+/Users/griffinbrown/Desktop/ElevenFiftyAcademy140.nosync/Repositories/Models/obj/Debug/net6.0/Models.AssemblyInfoInputs.cache
+/Users/griffinbrown/Desktop/ElevenFiftyAcademy140.nosync/Repositories/Models/obj/Debug/net6.0/Models.AssemblyInfo.cs
+/Users/griffinbrown/Desktop/ElevenFiftyAcademy140.nosync/Repositories/Models/obj/Debug/net6.0/Models.csproj.CoreCompileInputs.cache
+/Users/griffinbrown/Desktop/ElevenFiftyAcademy140.nosync/Repositories/Models/bin/Debug/net6.0/Models
+/Users/griffinbrown/Desktop/ElevenFiftyAcademy140.nosync/Repositories/Models/bin/Debug/net6.0/Models.deps.json
+/Users/griffinbrown/Desktop/ElevenFiftyAcademy140.nosync/Repositories/Models/bin/Debug/net6.0/Models.runtimeconfig.json
+/Users/griffinbrown/Desktop/ElevenFiftyAcademy140.nosync/Repositories/Models/bin/Debug/net6.0/Models.dll
+/Users/griffinbrown/Desktop/ElevenFiftyAcademy140.nosync/Repositories/Models/bin/Debug/net6.0/Models.pdb
+/Users/griffinbrown/Desktop/ElevenFiftyAcademy140.nosync/Repositories/Models/obj/Debug/net6.0/Models.dll
+/Users/griffinbrown/Desktop/ElevenFiftyAcademy140.nosync/Repositories/Models/obj/Debug/net6.0/refint/Models.dll
+/Users/griffinbrown/Desktop/ElevenFiftyAcademy140.nosync/Repositories/Models/obj/Debug/net6.0/Models.pdb
+/Users/griffinbrown/Desktop/ElevenFiftyAcademy140.nosync/Repositories/Models/obj/Debug/net6.0/Models.genruntimeconfig.cache
+/Users/griffinbrown/Desktop/ElevenFiftyAcademy140.nosync/Repositories/Models/obj/Debug/net6.0/ref/Models.dll
